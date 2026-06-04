@@ -1,0 +1,22 @@
+{
+    "version": "0.99.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sluicesync/sluice/releases/download/v0.99.2/sluice_0.99.2_Windows_x86_64.zip",
+            "bin": [
+                "sluice.exe"
+            ],
+            "hash": "9cb4435895b26753f68568e0582c792c550375db85ca90db128682006b23b6ff"
+        },
+        "arm64": {
+            "url": "https://github.com/sluicesync/sluice/releases/download/v0.99.2/sluice_0.99.2_Windows_arm64.zip",
+            "bin": [
+                "sluice.exe"
+            ],
+            "hash": "75956f7990fc4491688d7d82903f8c1ae16537a57e2f630e0156e51f6e0bd37c"
+        }
+    },
+    "homepage": "https://sluicesync.com",
+    "license": "Apache-2.0",
+    "description": "Open-source MySQL \u003c-\u003e Postgres database migration and continuous-sync (CDC) tool"
+}
