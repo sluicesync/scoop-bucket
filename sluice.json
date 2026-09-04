@@ -6,14 +6,14 @@
             "bin": [
                 "sluice.exe"
             ],
-            "hash": "ad73d6d5093f0c5f65c9023271f1e728c1d5668d8de8f99caf2785b0fd6c3e22"
+            "hash": "2e71da9d1debf37d52709ad5e65562b6c946d2be0a7363223d890cac4d9e5700"
         },
         "arm64": {
             "url": "https://github.com/sluicesync/sluice/releases/download/v0.141.1/sluice_0.141.1_Windows_arm64.zip",
             "bin": [
                 "sluice.exe"
             ],
-            "hash": "54b1f2c042e2d67126bcd29f0fe1610a47344da42c8feaa78416e4dc9c6a8177"
+            "hash": "1940e3fe377f667fe30999494a59766f59b25585cd69821a1807f7f2d6eb7b3b"
         }
     },
     "homepage": "https://sluicesync.com",
